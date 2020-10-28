@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a88bf5de80d3e06246bceff75f12cc06",
+    "revision": "494fb90cd49ee4b88a86cb5fb658ed6b",
     "url": "/insta_reactt/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insta_reactt/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "10e9408f273e4fc579af",
-    "url": "/insta_reactt/static/css/main.017c33ae.chunk.css"
+    "revision": "7392e179ad70a286214b",
+    "url": "/insta_reactt/static/css/main.48652c8f.chunk.css"
   },
   {
     "revision": "b469ccad426fc4c7f5c5",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insta_reactt/static/js/2.920274fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10e9408f273e4fc579af",
+    "revision": "7392e179ad70a286214b",
     "url": "/insta_reactt/static/js/main.90c08139.chunk.js"
   },
   {
