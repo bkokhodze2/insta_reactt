@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7478423acb78e9fb059cd65b014223e2",
+    "revision": "8a43239facac62a08ca4729b0116dcfc",
     "url": "/insta_reactt/index.html"
   },
   {
-    "revision": "c6a11760143ff9ebd626",
+    "revision": "a0bac51481bc0c0856ae",
     "url": "/insta_reactt/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "f9043d70219ac0afa0e1",
-    "url": "/insta_reactt/static/css/main.a8becc20.chunk.css"
+    "revision": "849896a0a35795499d60",
+    "url": "/insta_reactt/static/css/main.767bb1b3.chunk.css"
   },
   {
-    "revision": "c6a11760143ff9ebd626",
-    "url": "/insta_reactt/static/js/2.d6372c8e.chunk.js"
+    "revision": "a0bac51481bc0c0856ae",
+    "url": "/insta_reactt/static/js/2.fd8efaa0.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/insta_reactt/static/js/2.d6372c8e.chunk.js.LICENSE.txt"
+    "url": "/insta_reactt/static/js/2.fd8efaa0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9043d70219ac0afa0e1",
-    "url": "/insta_reactt/static/js/main.6e6d2905.chunk.js"
+    "revision": "849896a0a35795499d60",
+    "url": "/insta_reactt/static/js/main.916dc5f7.chunk.js"
   },
   {
     "revision": "ce877133ffed49d793df",
